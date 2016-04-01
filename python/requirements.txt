@@ -1,0 +1,26 @@
+# base
+numpy
+scipy
+ipython
+jupyter
+matplotlib
+
+# web & db
+flask
+pymysql
+
+# aws
+awscli
+
+# statastics
+pandas
+pyper
+
+# machine learning
+scikit-learn
+xgboost
+chainer
+
+# NLP
+word2vec
+nltk
